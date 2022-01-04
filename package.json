@@ -2,6 +2,7 @@
   "name": "example-multi-entry-parcel-reporter-bundle-manifest",
   "private": true,
   "license": "MIT",
+  "source": ["a.js", "b.js"],
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
